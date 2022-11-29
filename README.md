@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.~
 
 25岁, 不事学生
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=AzurLab&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=AzurLab&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzurLab&layout=compact&exclude_repo=AzurLab.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzurLab&&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
